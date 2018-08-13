@@ -1,2 +1,6 @@
 hello 2
+
 Adding line from local
+
+Adding line from cloud
+
